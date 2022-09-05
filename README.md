@@ -1,2 +1,0 @@
-# Skooldy
-Aplicacion educativa
